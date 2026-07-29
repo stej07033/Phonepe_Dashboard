@@ -69,7 +69,7 @@ PhonePe Transaction Dataset
 
 # 📊 Dashboard Preview
 
-## Dashboard Features(https://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_Dashboard.xlsx)
+## Dashboard Features
 
 ✅ Total Transaction Amount
 
@@ -106,6 +106,8 @@ Example Dashboard Layout
 # 📈 KPIs
 
 The dashboard includes:
+
+**https://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_Dashboard.xlsx**
 
 - 💰 Total Transaction Amount
 - 📦 Total Transaction Count
