@@ -143,26 +143,8 @@ PhonePe-Dashboard/
 │   ├── PivotTable.png
 │
 ├── README.md
-│
-└── LICENSE
+
 ```
-
----
-
-# 🚀 How to Use
-
-1. Download this repository.
-2. Open the Excel workbook.
-3. Enable Editing.
-4. Navigate to the Dashboard sheet.
-5. Use Slicers to filter:
-   - State
-   - Year
-   - Quarter
-   - Transaction Type
-6. Explore Pivot Charts and KPIs.
-
----
 
 # 📊 Dashboard Components
 
@@ -263,10 +245,10 @@ During this project, I learned:
 - Dashboard Development
 
 GitHub:
-https://github.com/YourGitHubUsername
+https://github.com/stej07033
 
 LinkedIn:
-https://linkedin.com/in/YourLinkedInUsername
+https://www.linkedin.com/in/madanapalli-sai-19b835389
 
 ---
 
