@@ -28,7 +28,7 @@ It is designed for recruiters, business analysts, and data analysts to showcase 
 
 ---
 
-# 📂 Dataset Information(
+# 📂 Dataset Information
 
 **Dataset Name**
 PhonePe Transaction Dataset
@@ -106,8 +106,6 @@ Example Dashboard Layout
 # 📈 KPIs
 
 The dashboard includes:
-
-**https://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_Dashboard.xlsx**
 
 - 💰 Total Transaction Amount
 - 📦 Total Transaction Count
