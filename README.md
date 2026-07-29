@@ -130,25 +130,6 @@ Some important insights generated from the dashboard include:
 
 ---
 
-# 📁 Project Structure
-
-```
-PhonePe-Dashboard/
-│
-├── Dataset/
-│   ├── phonepe_Dashboard.xlsx
-│
-├── Dashboard/
-│   ├── PhonePe Dashboard.xlsxhttps://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_dashboard.png
-│
-├── Images/
-│   ├── Dashboard.png
-│   ├── PivotTable.png
-│
-├── README.md
-
-```
-
 # 📊 Dashboard Components
 
 ### KPI Cards
@@ -217,16 +198,21 @@ During this project, I learned:
 
 ## Dashboard
 
-```
-https://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_dashboard.png
 
-```
+<img width="1186" height="742" alt="image" src="https://github.com/user-attachments/assets/d49c7fee-6ed7-4f78-9e71-f535bf5e6f4e" />
+
+
 
 ## Pivot Tables
 
-```
-(Add Pivot Table Screenshot Here)
-```
+<img width="1567" height="740" alt="image" src="https://github.com/user-attachments/assets/6488f6a5-960d-437b-8d8f-8bdc145ff018" />
+
+
+<img width="727" height="387" alt="image" src="https://github.com/user-attachments/assets/58d4425f-a58e-47c0-9420-0603fd9ab0a7" />
+
+
+<img width="1335" height="747" alt="image" src="https://github.com/user-attachments/assets/e354b83a-7fa7-4513-a670-3ddcb25d2176" />
+
 
 ---
 
