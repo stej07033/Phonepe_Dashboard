@@ -218,7 +218,8 @@ During this project, I learned:
 ## Dashboard
 
 ```
-(Add Dashboard Screenshot Here)<img width="1186" height="742" alt="image" src="https://github.com/user-attachments/assets/31b0780e-ed68-412a-94e6-ced3c4f81b77" />
+1[dashboard](<img width="1186" height="742" alt="image" src="https://github.com/user-attachments/assets/8578b790-5b1a-4f51-b8ae-470803dfea3b" />)
+
 
 ```
 
