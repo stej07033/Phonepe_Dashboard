@@ -139,7 +139,7 @@ PhonePe-Dashboard/
 │   ├── phonepe_Dashboard.xlsx
 │
 ├── Dashboard/
-│   ├── PhonePe Dashboard.xlsx
+│   ├── PhonePe Dashboard.xlsxhttps://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_dashboard.png
 │
 ├── Images/
 │   ├── Dashboard.png
@@ -218,8 +218,7 @@ During this project, I learned:
 ## Dashboard
 
 ```
-1[dashboard](<img width="1186" height="742" alt="image" src="https://github.com/user-attachments/assets/8578b790-5b1a-4f51-b8ae-470803dfea3b" />)
-
+https://raw.githubusercontent.com/stej07033/PhonePe-Excel-Dashboard/main/phonepe_dashboard.png
 
 ```
 
