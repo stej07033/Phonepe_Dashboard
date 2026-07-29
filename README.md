@@ -2,6 +2,7 @@
 
 A professional Excel dashboard built using **Pivot Tables, Pivot Charts, Slicers, and KPI Cards** to analyze PhonePe transaction data across different states, transaction types, and years. This project demonstrates advanced Excel dashboard development and business data analysis skills.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ccf23922-c0f9-4f2c-af56-924e3785e28a" />
 
 
 ---
