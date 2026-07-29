@@ -68,6 +68,7 @@ PhonePe Transaction Dataset
 ---
 
 # 📊 Dashboard Preview(https://github.com/stej07033/Phonepe_Dashboard/blob/main/db.xlsx)
+*Note : click on above dashboard url and download
 
 ## Dashboard Features
 
